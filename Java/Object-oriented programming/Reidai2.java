@@ -5,7 +5,8 @@ public class Reidai2{
     public static void main(String args[]){
         MyFrame1 fm = new MyFrame1("フレームへの描画");
         fm.setSize(300, 120);
-        fm.show();                                      // ウィンドウを表示
+        fm.setVisible(true);                             // ウィンドウを表示         
+        // fm.show();                                    // 非推奨 
     }
 }
 class MyFrame1 extends Frame {
@@ -27,6 +28,8 @@ class MyFrame1 extends Frame {
         g.drawString("現在食：青",10,60);
         g.fillRect(100,40,200,28);
 
-        g.
+        g.setColor(new Color(0,255, 0));
+        g.drawString("現在色：緑", 10,90);
+        g.fillRect(100, 70, 200, 28);
     }
 }
