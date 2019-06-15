@@ -1,58 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="221d48f3-d0e8-4dae-bbdc-ee2cf38ddfa3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section3/.ipynb_checkpoints/Section3_1-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section3/.ipynb_checkpoints/Section3_2-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section3/.ipynb_checkpoints/Section3_3-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section3/.ipynb_checkpoints/Section3_4-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section3/.ipynb_checkpoints/Section3_5-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section3/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section3/Section3_1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section3/Section3_2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section3/Section3_3.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section3/Section3_4.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section3/Section3_5.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section3/Untitled.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section3/sample_fig.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section5/.ipynb_checkpoints/Section5_1-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section5/.ipynb_checkpoints/Section5_2-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section5/.ipynb_checkpoints/Section5_3-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section5/Section5_1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section5/Section5_2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section5/Section5_3.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section5/sample.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section5/submit1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section5/submit2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section5/submit3.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section5/submit4.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section5/submit5.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section5/test.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section5/train.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section6/.ipynb_checkpoints/Section6_1-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section6/.ipynb_checkpoints/Section6_2-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section6/.ipynb_checkpoints/Section6_3-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section6/Section6_1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section6/Section6_2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section6/Section6_3.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section6/submit1_bank.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section6/submit2_bank.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section6/submit3_bank.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section6/submit4_bank.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section6/submit_sample.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section6/test.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section6/train.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section6/tree.dot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Section6/tree2.dot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/Untitled.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/bento/sample.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/bento/test.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/SIGNATE/bento/train.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/Untitled.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="221d48f3-d0e8-4dae-bbdc-ee2cf38ddfa3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/create_pptx.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="8" />
+            <state relative-caret-position="102">
+              <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -139,6 +88,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -247,16 +197,18 @@
       <workItem from="1548484177534" duration="314000" />
       <workItem from="1550985565967" duration="9000" />
       <workItem from="1553392292586" duration="332000" />
+      <workItem from="1554290985740" duration="15000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1794000" />
+    <option name="totallyTimeSpent" value="1809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="678" width="1085" height="1142" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23219512" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23707317" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -294,8 +246,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/create_pptx.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="8" />
+        <state relative-caret-position="102">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
