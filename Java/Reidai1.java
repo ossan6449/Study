@@ -12,14 +12,17 @@ public class Reidai1{
 class MyFrame1 extends Frame{
     MyFrame1(String title){
         super(title);
+        WinCloseOn();
+    }
+    private void WinCloseOn(){                          // 閉じるボタン処理をメソッド化
         addWindowListener(new WindowAdapter(){
             public void windowClosing(WindowEvent e){
                 System.exit(0);
             }
         });
     }
-
     public void paint(Graphics g){
         g.drawString("最初のフレームテストです",30,60);
     }
 }
+
